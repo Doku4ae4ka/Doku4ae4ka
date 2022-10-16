@@ -11,9 +11,9 @@ Hi! My name is Pavel, I am 17 years old and I am engaged in software and game de
 - Domain-driven development
 
 ### Pets
-- [Radzinsky](https://github.com/undrcrxwn/radzinsky) (production ready) — a multifunctional Telegram bot primarily used for chat-management and entertainment `C#` `ASP.NET Core` `Telegram.Bots` `Hangfire` `Mapster` `Docker`
+- [FeedBackBot](https://github.com/undrcrxwn/radzinsky) (production ready) — A project created for the centralized collection of student initiatives within the school "Pokrovsky Kvartal" `C#` `ASP.NET Core` `Telegram.Bots` `Mapster` `Entity Framework Core` `SQLite`
 
 ### Reach me
 - [Telegram](https://t.me/PEPIDUSTER)
-- [Discord](https://discordapp.com/users/764185797200969748)
+- [Discord](https://discordapp.com/users/312879192784240643)
 
