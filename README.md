@@ -6,10 +6,6 @@ Hi! My name is Pavel, I am 17 years old and I am engaged in software and game de
 - Used in the past `C++` `SQLAlchemy` `FastAPI` `Python` `Sphinx` `HTML5` `Unity`
 - Have touched `Flask` `MediatR` `WPF` `Windows Forms`
 
-### Currently studying
-- Domain-driven development
-- 
-
 ### Pets
 - [FeedBackBot](https://github.com/Doku4ae4ka/FeedbackBot) (finished & deployed) — A project created for the centralized collection of student initiatives within the school "Pokrovsky Kvartal" `C#` `ASP.NET Core` `Telegram.Bots` `Mapster` `Entity Framework Core` `SQLite`
 
