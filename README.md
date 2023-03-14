@@ -7,11 +7,11 @@ Hi! My name is Pavel, I am 17 years old and I am engaged in software and game de
 - Have touched `Flask` `MediatR` `WPF` `Windows Forms`
 
 ### Currently studying
-- Microservice architecture `Ocelot` `RabbitMQ` `Kubernetes`
 - Domain-driven development
+- 
 
 ### Pets
-- [FeedBackBot](https://github.com/undrcrxwn/radzinsky) (production ready) — A project created for the centralized collection of student initiatives within the school "Pokrovsky Kvartal" `C#` `ASP.NET Core` `Telegram.Bots` `Mapster` `Entity Framework Core` `SQLite`
+- [FeedBackBot](https://github.com/Doku4ae4ka/FeedbackBot) (production ready) — A project created for the centralized collection of student initiatives within the school "Pokrovsky Kvartal" `C#` `ASP.NET Core` `Telegram.Bots` `Mapster` `Entity Framework Core` `SQLite`
 
 ### Reach me
 - [Telegram](https://t.me/PEPIDUSTER)
