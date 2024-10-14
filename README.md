@@ -7,7 +7,7 @@ Hi! My name is Pavel, I am 18 years old and I am engaged in software and game de
 - Have touched `Flask` `SQLAlchemy` `FastAPI` `C++`
 
 ### Pets
-- [Azgard Defense Remastered](https://github.com/Doku4ae4ka/Azgard-Defense-Remake) (in Development) - remaster of the 2008 flash game "Azgard Defense" made on Unity.
+- [Azgard Defense Remastered](https://github.com/Doku4ae4ka/AzgardDefenceRemake) (in Development) - remaster of the 2008 flash game "Azgard Defense" made on Unity using LeoEcsLite and EasyEcs frameworks with architecture without MonoBehaviors.
 - [FeedBackBot](https://github.com/Doku4ae4ka/FeedbackBot) (finished & deployed) — A project created for the centralized collection of student initiatives within the school "Pokrovsky Kvartal" `C#` `ASP.NET Core` `Telegram.Bots` `Mapster` `Entity Framework Core` `SQLite`
 
 ### Reach me
