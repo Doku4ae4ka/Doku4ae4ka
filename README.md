@@ -2,7 +2,7 @@
 Hi! My name is Pavel, I am 18 years old and I am engaged in software and game development
 
 ### Stack & skills
-- Regularly using `Unity` `C#` `LeoEcsLite` `English B2+` `Addressables` `Git` 
+- Regularly using `Unity` `C#` `LeoEcsLite` `EasyEcs` `Sirenx` `English B2+` `Addressables` `Git` 
 - Used in the past `Zenject` `ASP.NET Core` `Entity Framework Core` `Docker` `Mapster` `PostgreSQL` `Python` `Sphinx` `MediatR`
 - Have touched `Flask` `SQLAlchemy` `FastAPI` `C++`
 
