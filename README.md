@@ -13,6 +13,9 @@ Hi! My name is Pavel and I am engaged in software and game development
 ### Open Source
 - [EasyEcs](https://github.com/exerussus/1EasyEcs) (in Development) - A custom engine with additional tools for working with ecslite.
 
+### Test Projects
+- [PointAndClick](https://github.com/Doku4ae4ka/PointAndClick) 
+
 ### Reach me
 - [Telegram](https://t.me/PavelDokuchaev)
 - [Discord](https://discordapp.com/users/312879192784240643)
