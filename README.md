@@ -2,8 +2,8 @@
 Hi! My name is Pavel and I am engaged in software and game development
 
 ### Stack & skills
-- Regularly using `Unity` `C#` `LeoEcsLite` `EasyEcs` `Sirenx` `English B2+` `Addressables` `Git` 
-- Used in the past `Zenject` `ASP.NET Core` `Entity Framework Core` `Docker` `Mapster` `PostgreSQL` `Python` `Sphinx` `MediatR`
+- Regularly using `Unity` `C#` `LeoEcsLite` `EasyEcs` `Sirenx` `UniRx` `VContainer` `English B2+` `Addressables` `Git` 
+- Used in the past `Zenject` `UniTask` `Entitas` `ASP.NET Core` `Entity Framework Core` `Docker` `Mapster` `PostgreSQL` `Python` `Sphinx` `MediatR`
 - Have touched `Fish-Net` `Flask` `SQLAlchemy` `FastAPI` `C++`
 
 ### My Projects
